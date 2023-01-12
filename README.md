@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edward-designer
 - 👀 I’m interested in all things web
-- 🌱 I’m currently learning react/redux/typescript
+- 🌱 I’m currently learning THREE.js and NEXT.js
 
 <!---
 edward-designer/edward-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
