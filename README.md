@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @edward-designer
-- 👀 I’m interested in all things web
+- 👋 Hi, I’m Edward Chung
+- 👀 I’m a career-changer transitioning from design to front-end development
 - 🌱 I’m currently learning THREE.js and NEXT.js
 
 <!---
